@@ -1,0 +1,22 @@
+{
+  "name": "refactoring2",
+  "version": "1.0.0",
+  "description": "study refactoring2",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gyeongwon1275/study_refactoring2.git"
+  },
+  "keywords": [
+    "refactoring"
+  ],
+  "author": "gyeongwon1275",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gyeongwon1275/study_refactoring2/issues"
+  },
+  "homepage": "https://github.com/gyeongwon1275/study_refactoring2#readme"
+}
